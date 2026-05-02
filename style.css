@@ -49,6 +49,14 @@ button{
     justify-content: center;
     gap: 2em;
     font-size: 22px;
+    cursor: pointer;
+}
+
+button:active{
+    background-color: lightgray;
+}
+.equal{
+    width: 215px;
 }
 
 #error{
