@@ -7,7 +7,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: lightgray;
+    background: rgb(201, 161, 238);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,8 +20,8 @@ body{
     justify-content: center;
     flex-direction: column;
     width: 450px;
-    height: 400px;
-    background: white;
+    height: 500px;
+    background: whitesmoke;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -37,13 +37,13 @@ input{
     margin: 10px;
     padding: 20px;
     width: 300px;
-    height: auto;
+    height: 10%;
 }
 
 button{
     padding: 20px;
     width: 25%;
-    height: 15%;
+    height: 5%;
     display: flex;
     align-items: center;
     justify-content: center;
